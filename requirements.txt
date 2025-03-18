@@ -1,0 +1,4 @@
+python-dotenv
+openai
+
+# openai=0.13 -> 버전 명시
